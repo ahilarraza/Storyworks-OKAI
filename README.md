@@ -8,7 +8,7 @@ My biggest challenge was keeping the layout consistent and responsive across all
 Besides validating the contact form, I added:
 - A Read More / Read Less toggle on the homepage to expand additional content.
 - A small ROI calculator on the Features page that estimates potential time savings (fictional).
-These elements make the site feel more dynamic and help demonstrate how interactive the real VAYN experience could be.
+These elements make the site feel more dynamic and help demonstrate how interactive the real OKAI experience could be.
 
 * Deployment Platform & Why I Used It
 I deployed the website using GitHub Pages because it’s easy to connect directly to my repository, updates automatically when I push new changes, and is simple to use for static projects like this one.
