@@ -107,12 +107,12 @@ function setupRoiCalculator() {
 
     // Very simple fictional estimate:
     // current time: leads * minutes
-    // with VAIN we assume 40% time saved
+    // with OKAI we assume 40% time saved
     const currentMinutes = leads * minutes;
     const savedMinutes = currentMinutes * 0.4;
     const savedHours = savedMinutes / 60;
 
-    result.textContent = `VAIN could save approximately ${savedHours.toFixed(
+    result.textContent = `OKAI could save approximately ${savedHours.toFixed(
       1
     )} hours of manual intake time per week (fictional example).`;
   });
